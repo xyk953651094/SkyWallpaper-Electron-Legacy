@@ -1,4 +1,4 @@
-# 云开壁纸 based React Electron
+# 云开壁纸 based React Electron（Legacy）
 ## 简介
 * 适用于 Windows、MacOS 的壁纸软件
 * 基于 Html + Typescript + CSS + React + Webpack + Electron + Semi Design
